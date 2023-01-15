@@ -1,0 +1,7 @@
+# files in my_project_env
+bin/
+etc/
+.ipynb_checkpoints
+lib/
+pyvenv.cfg
+share/
