@@ -1,1 +1,7 @@
 # ignore files in my-proj-env
+bin/
+etc/
+.ipynb_checkpoints
+lib/
+pyvenv.cfg
+share/
